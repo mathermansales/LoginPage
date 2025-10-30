@@ -80,3 +80,20 @@ button:hover {
 .error {
     color: red;
 }
+
+
+.link-to-login {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+
+.link-to-login a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link-to-login a:hover {
+    text-decoration: underline;
+}
